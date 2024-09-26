@@ -1,0 +1,23 @@
+name: HRRR-db
+channels:
+- pyviz
+- conda-forge
+dependencies:
+- bokeh
+- boto3
+- botocore
+- cfgrib
+- dask
+- dask-expr
+- geoalchemy2
+- graphviz
+- holoviews
+- hvplot
+- ipython
+- metpy
+- psycopg
+- python-dotenv
+- s3fs
+- sqlalchemy
+- xarray
+- zarr
